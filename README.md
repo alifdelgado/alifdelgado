@@ -13,7 +13,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20" />
             Linkedin profile
   </a>
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 ## 💻 My skills
 <p>
@@ -34,7 +34,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="65" height="65" />
 </p>
-          
+
+## 📊 Stats
+<div width="100%">
+ 
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifdelgado&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifdelgado&layout=pie)](https://github.com/alifdelgado/github-readme-stats)
+
+</div>
 <!--
 **alifdelgado/alifdelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
