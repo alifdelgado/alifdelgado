@@ -16,31 +16,21 @@
 - 😄 Pronouns: He/Him
 
 ## 💻 My skills
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="postgresql" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="65" height="65" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,php,laravel,mysql,postgresql,mongodb,javascript,typescript,nodejs,nestjs,vuejs,react,jest,bootstrap,tailwind" />
+  </a>
 </p>
 
 ## 📊 Stats
-<div width="100%">
- 
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifdelgado&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifdelgado&layout=pie)](https://github.com/alifdelgado/github-readme-stats)
+<a> 
+    <a href="https://github.com/alifdelgado"><img alt="Alif Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alifdelgado&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/></a>
+ <a href="https://github.com/alifdelgado"><img alt="Alif Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alifdelgado&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-</div>
+
+![Alif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alifdelgado&custom_title=Alif%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&area=true)
 <!--
 **alifdelgado/alifdelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
